@@ -1,5 +1,1 @@
-# mobileapp_layout
-# MobileLayout
-# MobileLayout
-# MobileLayout
-# MobileLayout
+FIGMA design available in https://www.youtube.com/redirect?event=video_description&q=https%3A%2F%2Fadriantwarog.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fmobile-first-design-hachibar-adrian-twraog.fig&redir_token=QUFFLUhqblJRbjVNZzJQLVNvWVQzeGFhelJsZzZFX0hvZ3xBQ3Jtc0trYnQ0TFBQQTJlV0hGTk1SMnVlem9JdW5iWU0tVm83T1YydXZzaVRPTlVoRU5UeXQxLTJ3aTkwRGhvYmpRSjB1dHFtVmdNdFo1bmxYdno0UHlyaHZjUlFNcHp5ZkM5cldQUzhWMVRQdUZWMzhTM212MA%3D%3D&v=NeThtWARdnY
