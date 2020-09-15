@@ -1,0 +1,126 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  height: 1020px;
+  width: 480px;
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+section:over {
+  overflow-y: scroll;
+}
+
+header {
+  padding-top: 45px;
+  padding: 30px;
+  padding-bottom: 0px;
+}
+
+.menu {
+  display: inline-block;
+}
+
+main {
+  background-color: #f7f7f7;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  min-height: 100px;
+}
+
+.buttons {
+  display: flex;
+  padding: 10px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex: 1;
+  height: 110px;
+  padding: 15px;
+  border-radius: 20px;
+  background: white;
+  margin: 5px;
+}
+
+.button img {
+  padding-bottom: 13px;
+}
+
+.hospitals {
+  padding-bottom: 15px;
+}
+.hospitals h2 {
+  color: #3e3049;
+  font-weight: 600;
+  size: 2rem;
+  padding-left: 20px;
+}
+
+.hospital {
+  display: flex;
+  padding: 15px;
+  margin: 13px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.hospital2{
+    display: flex;
+    padding: 15px;
+    margin: 13px;
+    background-color: white;
+    border-radius: 10px;
+  }
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  padding: 15px;
+}
+
+.info {
+  display: inline-block;
+  margin-left: 20px;
+  align-items: center;
+  flex: 1;
+}
+
+.name {
+  font-weight: bolder;
+
+  color: #342a3d;
+}
+
+.direction {
+  font-weight: 200;
+
+  color: #665e77;
+}
+
+.beds {
+  font-weight: 500;
+
+  color: #7358d4;
+}
+.beds2 {
+    font-weight: 500;
+  
+    color: #F79A1C;
+  }
